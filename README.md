@@ -1,4 +1,4 @@
-# nextcloud-xl
+# nextcloud-xl - ARCHIVED
 
 This is the [`nextcloud:apache`](https://hub.docker.com/_/nextcloud) image, with a bunch of extra additions. This image is NOT SMALL - it weighs in at about 1.8 gigabytes. It is based on the [`full`](https://github.com/nextcloud/docker/tree/master/.examples/dockerfiles/full/apache) example Dockerfile from Nextcloud, but with even more things added:
 
